@@ -17,6 +17,9 @@
             </intent-filter>
         </activity>
     <!--TO DO-->
+        <activity android:name=".GDD01_child">
+
+        </activity>
     </application>
 
 </manifest>
